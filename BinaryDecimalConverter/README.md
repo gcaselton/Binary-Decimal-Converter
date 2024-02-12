@@ -1,4 +1,4 @@
-# Binary-Decimal-Converter
+# BinaryDecimalConverter
 
 This is a simple Java program that converts binary numbers to decimal and vice versa. It uses a menu system and accepts input from the user's keyboard.
 

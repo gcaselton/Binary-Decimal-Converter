@@ -10,4 +10,6 @@ This is a simple Java program that converts binary numbers to decimal and vice v
 
 Feel free to explore and modify the code as needed!
 
-Please note - the program uses the int data type throughout and therefore is not suitable for converting to/from values larger than 2147483647.
+## Notes
+- The program only converts between positive integers at present.
+- The program uses the int data type throughout and therefore is not suitable for converting to/from values larger than 2147483647.
